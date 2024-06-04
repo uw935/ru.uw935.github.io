@@ -1,2 +1,2 @@
-# ru.uw935.github.io
-Russian version of my website
+## About
+Это не последняя версия сайта. Скоро я обязательно доделаю его
