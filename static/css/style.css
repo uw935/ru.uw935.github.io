@@ -9,6 +9,12 @@ body {
     font-family: Inter, sans-serif;
 }
 
+.blur {
+    user-select: none;
+    color: transparent;
+    text-shadow: 0 0 8px #000;
+}
+
 .hints {
     cursor: pointer;
     transition: all .4s ease;
