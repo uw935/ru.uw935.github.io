@@ -1,0 +1,3 @@
+User-agent: *
+Disallow: /wip
+Disallow: /404
